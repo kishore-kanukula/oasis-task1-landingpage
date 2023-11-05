@@ -1,0 +1,110 @@
+BODY{
+    background-image: URL(c:/Users/HERO/Desktop/YOKOS/YOKO-6.jpg);
+    background-repeat: REPEAT;
+}
+.M1{
+    BORDER:2PX SOLID BLACK;
+    MARGIN:50PX 50PX 50PX 50PX;
+    background-color: rgb(247, 241, 241);
+    box-shadow: 10PX 10PX 10PX WHITE;
+    
+}
+.P1{
+    text-align: CENTER;
+    background-color: grey;
+    padding:10px 5px 5px 5px;
+} 
+.P1>h1{
+    letter-spacing: .3em;
+    margin-bottom:0px;
+}
+.P1>h3{
+    letter-spacing: .3em;
+}
+ul{
+    
+    background-color:rgba(56, 56, 56, 0.824);
+    padding:5px 1px 3px 1px;
+    margin-top:0px;
+}
+li{
+    margin-top: 100PX;
+    margin-right:40px;
+    display: inline;
+    color:white;
+}
+li:hover{
+    color:pink;
+    cursor:pointer;
+}
+li:active,#PINK1{
+    color:grey;
+}
+.P4{
+    clear:both;
+    background-color:rgba(56, 56, 56, 0.824);
+    padding:10px 1px 5px 1px;
+
+
+}
+#H1{
+    margin-left:5px;
+    color:black;
+}
+.TOP{
+    PADDING:10PX;
+    FLOAT:LEFT;
+    DISPLAY:INLINE;
+    WIDTH:60%;
+    HEIGHT:30%;
+}
+.L1{
+    FLOAT:LEFT;
+    WIDTH:50%;
+}
+.R1{
+    FLOAT:LEFT;
+    WIDTH:50%;
+}
+.BOTTOM{
+    PADDING: 10PX;
+    FLOAT:LEFT;
+    DISPLAY:INLINE;
+    WIDTH:60%;
+}
+.P3{
+    padding: 50px 20px 50px 20px ;
+}
+.L2{
+    FLOAT:LEFT;
+    WIDTH:50%;
+}
+.R2{
+    FLOAT:LEFT;
+    WIDTH:50%;
+}
+.RIGHT{
+
+    text-align: CENTER;
+}
+#PINK,#PINK1{
+    COLOR:DEEPPINK;
+}
+#PINK1{
+    POSITION:RELATIVE;
+    TOP:8PX;
+}
+img{
+    box-shadow: 10px 5px 10px black;
+}
+figcaption{
+    font-size: 12pt;
+}
+.left,.right
+{
+ width:650px;
+}
+.L1,.L2,.R1,.R2{
+    WIDTH:250PX;
+    WIDTH:300PX;
+}
